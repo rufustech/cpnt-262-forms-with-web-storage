@@ -1,5 +1,7 @@
 # Tasks
 
+## [Link to site](https://rufustech.github.io/cpnt-262-forms-with-web-storage/)
+
 ## Save Preferences
 
 Save the form input values using the specified storage types.
@@ -15,4 +17,3 @@ Style the page based on saved color and font size.
 ## Cookie Function
 
 use a getCookie function to fetch data from cookies correctly.# cpnt-262-forms-with-web-storage
-# cpnt-262-forms-with-web-storage
