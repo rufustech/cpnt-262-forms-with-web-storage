@@ -4,7 +4,7 @@ window.onload = loadCookiePreferences;
 document
   .getElementById("profile-form")
   .addEventListener("submit", function (event) {
-    event.preventDefault();
+    // event.preventDefault();
     // Common Variable
     const isRememberPreferences = document.getElementById("remember").checked;
     const userData = document.getElementById("username").value;
